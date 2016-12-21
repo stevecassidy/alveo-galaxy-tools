@@ -47,8 +47,8 @@ WHERE {
  """ % speakerid
 
     hVdWords = {
-        'monopthongs': ['head', 'had', 'hud', 'heed', 'hid', 'hood', 'hod', "whod"],
-        'dipthongs': ['herd', 'howd', 'hoyd', 'haired', 'hard', 'heared']
+        'monopthongs': ['head', 'had', 'hud', 'heed', 'hid', 'hood', 'hod', 'whod', 'herd', 'haired', 'hard', 'horde'],
+        'dipthongs': ['howd', 'hoyd', 'hide', 'hode', 'hade', 'heared'] 
         }
 
     if words == 'all':
